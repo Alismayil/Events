@@ -1,0 +1,68 @@
+table{
+    border: 1px solid black;
+    width: 100%;
+}
+td{
+    border: 1.5px dotted black;
+}
+
+input{
+    height: 30px;
+    width: 250px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    border: 1.6px dotted black;
+    
+}
+button{
+    margin-top: 10px;
+    margin-left: 1px;
+    margin-bottom: 20px;
+    width: 250px;
+    height: 35px;
+    border-radius: 10px;
+ border: 1px solid red;
+ cursor: pointer;
+ font-size: 20px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
